@@ -2523,8 +2523,7 @@ figcaption {
   display: flex;
 }
 .footer-subscribe.wf-section{
-  background-color: darkgray;
- 
+  background-color: black;
 }
 
 .footer-wrap {
@@ -3288,7 +3287,7 @@ figcaption {
 }
 
 .footer-copyright {
-  color: #3a4554;
+  color:whitesmoke;
 }
 
 .footer-social-block-two {
@@ -3559,14 +3558,14 @@ figcaption {
 }
 
 .footer-link-three {
-  color: #1a1b1f;
+  color: whitesmoke;
   margin-left: 20px;
   margin-right: 20px;
   text-decoration: none;
 }
 
 .footer-link-three:hover {
-  color: rgba(26, 27, 31, .75);
+  color: cadetblue;
 }
 
 .footer-social-block-three {

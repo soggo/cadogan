@@ -3282,7 +3282,7 @@ figcaption {
 }
 
 .footer-copyright {
-  color: #3a4554;
+  color: whitesmoke;
 }
 
 .footer-social-block-two {
@@ -3466,7 +3466,7 @@ figcaption {
   font-weight: 600;
 }
 .footer-subscribe.wf-section{
-  background-color: darkgray;
+  background-color: black;
  
 }
 .footer-subscribe {
@@ -3556,14 +3556,14 @@ figcaption {
 }
 
 .footer-link-three {
-  color: #1a1b1f;
+  color: whitesmoke;
   margin-left: 20px;
   margin-right: 20px;
   text-decoration: none;
 }
 
 .footer-link-three:hover {
-  color: rgba(26, 27, 31, .75);
+  color: cadetblue;
 }
 
 .footer-social-block-three {
@@ -4256,6 +4256,7 @@ figcaption {
   .footer-copyright {
     font-size: 14px;
     line-height: 20px;
+    color: whitesmoke;
   }
 
   .footer-social-block-two {
