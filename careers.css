@@ -6,6 +6,7 @@ html {
   
   body {
     margin: 0;
+    padding: 0;
   }
   
   article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -3473,7 +3474,7 @@ html {
   
   .footer-subscribe {
     border-bottom: 1px solid #e4ebf3;
-    padding: 50px 30px 40px;
+    padding: 50px 30px 60px ;
     position: relative;
   }
   
@@ -3550,6 +3551,7 @@ html {
   }
   .footer-subscribe.wf-section{
     background-color: black;
+    margin-bottom: 0;
   }
   .footer-block-three {
     justify-content: flex-start;
