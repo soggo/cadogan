@@ -3133,6 +3133,7 @@ figcaption {
 }
 
 .container-2 {
+
   height: 300px;
   flex-direction: column;
   justify-content: center;
@@ -4473,6 +4474,10 @@ figcaption {
     align-items: center;
     display: flex;
   }
+
+.container-2 {
+  margin-top: 20%;
+}
 
   .container-3 {
     max-width: none;
