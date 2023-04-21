@@ -1533,6 +1533,11 @@ textarea.w-input, textarea.w-select {
   display: block;
 }
 
+img.image.dark{
+  width: 300px;
+  height: 300px;
+}
+
 .w-lightbox-group .w-lightbox-image {
   max-height: 86vh;
 }
@@ -3133,7 +3138,6 @@ figcaption {
 }
 
 .container-2 {
-
   height: 300px;
   flex-direction: column;
   justify-content: center;
@@ -3875,6 +3879,10 @@ figcaption {
   .heading-jumbo {
     font-size: 56px;
     line-height: 70px;
+  }
+  
+  .container-2{
+    padding: 55% 0;
   }
 
   .logo-link.w--current {
